@@ -1,0 +1,4 @@
+./codenames-server/*.db*
+./codenames-server/node_modules
+./codenames-website/node_modules
+./codenames-website/dist
